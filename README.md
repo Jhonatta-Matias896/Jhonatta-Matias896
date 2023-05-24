@@ -12,8 +12,8 @@
  - 📱 (73) 9.8224-5157
  <br>
  <br>
- <div>
-  <div aling="center">
+ 
+  
 <img  height="250" alt="coding-time" src="https://cdn.discordapp.com/attachments/980938748554543216/1110721356611457115/code.gif.gif">
 <div>
  
@@ -27,7 +27,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatta-Matias896&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=great-gatsby"/>
   
-</div>
+
 
   
 
@@ -40,12 +40,10 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
-   </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="(https://cdn.discordapp.com/attachments/980938748554543216/1110723197986422835/circle-linkedin-512.png)">
+   
+         
       
-      
-      ![Snake animation](https://github.com/Jhonatta-Matias896/Jhonatta-Matias896/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Jhonatta-Matias896/Jhonatta-Matias896/blob/output/github-contribution-grid-snake.svg)
 
     
     
