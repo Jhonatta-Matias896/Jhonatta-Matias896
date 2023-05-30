@@ -19,7 +19,7 @@
    </div>
  
   
-<img  height="250" alt="coding-time" src="https://cdn.discordapp.com/attachments/980938748554543216/1110721356611457115/code.gif.gif">
+<img  height="200" alt="coding-time" src="https://cdn.discordapp.com/attachments/980938748554543216/1110721356611457115/code.gif.gif">
 <div>
  
 
@@ -31,8 +31,8 @@
   
   <div>
   
-  <img  height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonatta-Matias896&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=great-gatsby"/></div>
+  <img  height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonatta-Matias896&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=great-gatsby"/></div>
 <br>
   
 
