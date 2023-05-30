@@ -19,7 +19,7 @@
    </div>
  
   
-<img  height="200" alt="coding-time" src="https://cdn.discordapp.com/attachments/980938748554543216/1110721356611457115/code.gif.gif">
+<img  height="250" alt="coding-time" src="https://cdn.discordapp.com/attachments/980938748554543216/1110721356611457115/code.gif.gif">
 <div>
  
 
