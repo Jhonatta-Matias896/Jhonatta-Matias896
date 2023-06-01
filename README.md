@@ -6,7 +6,7 @@
 
  
  - 👨🏾‍💼 Hoje trabalho como analista de teste/QA
- - 🚀 Estudante de engenharia de software
+ - 🚀 Estudante de Engenharia de Software
  - 📌 Pretendo me tornar especialista em automação
  - 📫 Contate-me via e-mail: jhonatta.matiasqa@gmail.com
  - 📱 (73) 9.8224-5157
