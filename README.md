@@ -8,7 +8,7 @@
  - 👨🏾‍💼 Hoje trabalho como analista de teste/QA
  - 🚀 Estudante de Engenharia de Software
  - 📌 Pretendo me tornar especialista em automação
- - 📚 Atualmente estudando testes CI/CD (Integração Contínua/Entrega Contínua) | BDD e recursos avançados do Cypress
+ - 📚 Atualmente estudando testes CI/CD (Integração Contínua/Entrega Contínua) | Cucumber e recursos avançados do Cypress
  - 📫 Contate-me via e-mail: jhonatta.matiasqa@gmail.com
  - 📱 (73) 9.8224-5157
  <br>
