@@ -63,7 +63,7 @@
 
 
    
-   <img alt="" src="https://raw.githubusercontent.com/Jhonatta-Matias896/Jhonatta-Matias896/output/github-contribution-grid-snake.svg" />
+   <img alt="" src="https://raw.githubusercontent.com/Jhonatta-Matias896/Jhonatta-Matias896/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
    
    
 
