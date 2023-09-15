@@ -57,7 +57,8 @@
    
    
    
-   ![snake gif](https://github.com/Jhonatta-Matias896/Jhonatta-Matias896/blob/output/github-contribution-grid-snake.svg)
+  
+   ![Snake animation](https://github.com/Jhonatta-Matias896/Jhonatta-Matias896/blob/output/github-contribution-grid-snake.svg)
 
  
       
