@@ -30,8 +30,8 @@
   
   <div>
   
-  <img  align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonatta-Matias896&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=shadow_red"/></div>
+  <img  align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonatta-Matias896&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=maroongold"/></div>
 <br>
   
 
