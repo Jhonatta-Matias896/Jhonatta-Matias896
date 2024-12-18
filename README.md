@@ -18,7 +18,7 @@
    </div>
  
   
-<img  height="250" alt="coding-time" src="https://media.discordapp.net/attachments/1138261543121858651/1318732171195977859/n8agw6z2smyb1.png?ex=6763648a&is=6762130a&hm=aa484e941fab347cdff8c16ab6df407de629272e23daa80f7acabd46f3e03d85&=&format=webp&quality=lossless&width=1193&height=671">
+<img  height="250" alt="coding-time" src="https://media.discordapp.net/attachments/1138261543121858651/1318732171195977859/n8agw6z2smyb1.gif?ex=6763648a&is=6762130a&hm=aa484e941fab347cdff8c16ab6df407de629272e23daa80f7acabd46f3e03d85&=&format=webp&quality=lossless&width=1193&height=671">
 <div>
  
 
