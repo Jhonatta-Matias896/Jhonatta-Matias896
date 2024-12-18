@@ -18,7 +18,7 @@
    </div>
  
   
-<img  height="250" alt="coding-time" src="(https://media.discordapp.net/attachments/1138261543121858651/1318732571697348628/n8agw6z2smyb1.gif">
+<img  height="250" alt="coding-time" src="https://media.discordapp.net/attachments/1138261543121858651/1318732571697348628/n8agw6z2smyb1.gif">
 <div>
  
 
