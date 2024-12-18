@@ -31,7 +31,7 @@
   <div>
   
   <img  align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonatta-Matias896&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=maroongold"/></div>
+  <img align="" height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonatta-Matias896&layout=compact&langs_count=16&theme=gotham"/></div>
 <br>
   
 
