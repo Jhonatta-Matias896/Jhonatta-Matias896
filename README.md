@@ -18,7 +18,7 @@
    </div>
  
   
-<img  height="250" alt="coding-time" src="[https://media.discordapp.net/attachments/1138261543121858651/1318734982340149321/pixel-jeff-matrix-s.gif?ex=67636728&is=676215a8&hm=7cd5b167c58541751c630fe0839260bb35a65b498c26dd3a66b5aff6db72a35d&=&width=1193&height=671](https://media.discordapp.net/attachments/1138261543121858651/1318735259604615238/n8agw6z2smyb1.gif?ex=6763676a&is=676215ea&hm=f7492ece33ef3ad0a60fa68198ce0720144b6f97e8b26a942bb8c23c278a44a3&=&width=1193&height=671)">
+<img  height="250" alt="coding-time" src="https://media.discordapp.net/attachments/1138261543121858651/1318734982340149321/pixel-jeff-matrix-s.gif?ex=67636728&is=676215a8&hm=7cd5b167c58541751c630fe0839260bb35a65b498c26dd3a66b5aff6db72a35d&=&width=1193&height=671">
 <div>
  
 
