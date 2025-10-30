@@ -1,5 +1,6 @@
 name: Generate Snake
 
+
 # Controls when the action will run.
 on:
   schedule:
@@ -15,6 +16,10 @@ on:
     - main
 
 # The sequence of runs in this workflow:
+permissions:
+  contents: write
+
+
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -24,7 +29,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
